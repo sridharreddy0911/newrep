@@ -1,1 +1,2 @@
 from remote using pull
+changes for merge conflict from remote
